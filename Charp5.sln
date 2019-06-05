@@ -3,29 +3,23 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.438
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Charp5", "Charp5\Charp5.vcxproj", "{CD1328BE-5582-4005-BEFF-8499F78592C9}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Charp5", "Charp5\Charp5.csproj", "{CB3638C6-1D2C-477B-9A99-AA4F5A991716}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
-		Debug|x64 = Debug|x64
-		Debug|x86 = Debug|x86
-		Release|x64 = Release|x64
-		Release|x86 = Release|x86
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{CD1328BE-5582-4005-BEFF-8499F78592C9}.Debug|x64.ActiveCfg = Debug|x64
-		{CD1328BE-5582-4005-BEFF-8499F78592C9}.Debug|x64.Build.0 = Debug|x64
-		{CD1328BE-5582-4005-BEFF-8499F78592C9}.Debug|x86.ActiveCfg = Debug|Win32
-		{CD1328BE-5582-4005-BEFF-8499F78592C9}.Debug|x86.Build.0 = Debug|Win32
-		{CD1328BE-5582-4005-BEFF-8499F78592C9}.Release|x64.ActiveCfg = Release|x64
-		{CD1328BE-5582-4005-BEFF-8499F78592C9}.Release|x64.Build.0 = Release|x64
-		{CD1328BE-5582-4005-BEFF-8499F78592C9}.Release|x86.ActiveCfg = Release|Win32
-		{CD1328BE-5582-4005-BEFF-8499F78592C9}.Release|x86.Build.0 = Release|Win32
+		{CB3638C6-1D2C-477B-9A99-AA4F5A991716}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CB3638C6-1D2C-477B-9A99-AA4F5A991716}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CB3638C6-1D2C-477B-9A99-AA4F5A991716}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CB3638C6-1D2C-477B-9A99-AA4F5A991716}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {2E4DF3DD-D29C-4020-AC9B-8F85D50698CE}
+		SolutionGuid = {4DF5C812-0814-486F-A283-54DBF09E08ED}
 	EndGlobalSection
 EndGlobal
